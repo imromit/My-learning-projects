@@ -1,0 +1,33 @@
+*{margin:0px; padding: 0px;box-sizing: border-box;}
+body{ height: auto;width: 75%;margin-left: 12.5%; margin-top: 5px;font-family: Arial,Helvetica,sans-serif;}
+.header{height: 185px;width: 100%;background-color: #ab183d;}
+.logo{float: left;padding: 20px;}
+.heading{background-color: #ab183d;float: right;padding-right: 205px;padding-top: 50px;font-size: 30px;color: white;font-size: 60px;font-weight: bolder;}
+.heading p { font-size: 20px; text-align: center;}
+.menu{background-color: black;height: 50px;padding: 15px;}
+.menu a{text-decoration: none; color: white;padding-right:60px;font-size: 20px;font-weight:600;}
+.center1{font-weight: 700;margin: 40px 0px 15px 0px;font-size: 25px;}
+.center2{text-align: center;}
+#r1{color: rgb(255, 0, 0);font-weight: bold;font-size: 20px;}
+#g1{color: green;font-weight: bold;font-size: 20px;}
+.center3 a{font-size: 22px;font-weight: bold;}
+.center3{margin-top: 10px;font-size: 20px; text-align: center;}
+.center3 marquee a{margin-top: 10px;font-size: 20px; text-align: center;}
+.center4{ margin-top: 20px;text-align: center;}
+.youtube{background: #0000a0;height: 50px;width:35%;text-align: center;margin-left: 33%;border: 1px groove;font-size: 30px; font-weight: 700;padding: 3px;}
+.youtube a {color: white;}
+table{margin-top: 20px;}
+table a{ text-decoration: none; color: white;}
+.u1,.u2,.u3,.u4,.d1,.d2,.d4,.d3, a{font-size:25px;text-align:center;font-weight: bold;}
+.u1{height: 80px;width: 310px; margin:2px;color: white; background-color:#868a08;padding: 15px;}
+.u2{height: 80px;width: 310px; margin:2px;color: white; background-color:#0404b4;padding: 15px;}
+.u3{height: 80px;width: 310px; margin:2px;color: white; background-color:#fb5e03;padding: 15px;}
+.u4{height: 80px;width: 310px; margin:2px;color: white; background-color:#8c0101;padding: 15px;}
+.d1{height: 80px;width: 310px; margin:2px;color: white; background-color:#fb0303;padding: 15px;}
+.d2{height: 80px;width: 310px; margin:2px;color: white; background-color:#0b610b;padding: 15px;}
+.d3{height: 80px;width: 310px; margin:2px;color: white; background-color:#ff00bf;padding: 15px;}
+.d4{height: 80px;width: 310px; margin:2px;color: white; background-color:#0080ff;padding: 15px;}
+
+
+
+

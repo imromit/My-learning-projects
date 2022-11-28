@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.mainbody {
+    background: purple;
+    height: 1000px;
+    width: 100%;
+}
+
+.wrapper {
+    background: yellow;
+    height: 1000px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.header {
+    background: red;
+    height: 200px;
+    width: 100%;
+}
+
+.menu {
+    background: violet;
+    height: 600px;
+    width: 20%;
+    float: left;
+}
+
+.center {
+    background: black;
+    height: 600px;
+    width: 20%;
+    float: left;
+}
+
+.footer {
+    background: orange;
+    height: 200px;
+    width: 100%;
+    float: left;
+}

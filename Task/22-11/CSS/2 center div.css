@@ -1,0 +1,7 @@
+*{margin: 0px; padding: 0px;box-sizing: border-box;text-align: center;}
+body{width: 60%;margin-left: 20%;color: white;font-family: 'Arial Narrow'; font-size: 20px; font-weight: bolder;}
+.menu{height: 40px;width: 100%;background-color:red;padding-top: 1%;}
+.header{height: 100px;width: 100%; background-color:blue;padding-top: 4%;}
+.content{height: 300px;width: 70%;background-color: green;float: left;padding-top: 15%;}
+.side{height: 300px;width: 30%;background-color: darkgreen;float: right;padding-top: 15%;}
+.footer{height: 60px;width: 100%;background-color: orangered;float: left;padding-top: 2%;}

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fill out Form</title>
+    <style>
+        legend {
+            background-color: #84a8eb;
+           border: solid;
+        
+        }
+
+        fieldset {
+            background-color: #DCA800;
+            
+        }
+    </style>
+</head>
+
+<body>
+    <center>
+        <table border="2" rules="none">
+            <tr >
+                <th><br>
+                    Please fill out the form completely. <br><br></th>
+            </tr>
+            <tr>
+                <td>
+                    <fieldset>
+                        <legend>Personal information</legend>
+                        <label> First name: <input type="text"></label><br><br>
+                        <label>Last name: <input type="text"></label> <br><br>
+                        <label> Street: <input type="text"></label><br><br>
+                        <label> City: <input type="text"></label><br><br>
+                        <label> State:
+                            <select name="" id="">
+                                <option value="">--</option>
+                                <option value="">Delhi</option>
+                                <option value="">UP</option>
+                            </select>
+                            Zip: <input type="text" name="" id="" size="4" maxlength="4">
+                        </label>
+                    </fieldset>
+                </td>
+            </tr>
+            <tr>
+                <td><br>
+                    <fieldset>
+                        <legend>Other Form information</legend>
+                        <label>
+                            Do you have a pet dog?
+                            <input type="radio" name="pet" id="">Yes
+                            <input type="radio" name="pet" id="">No
+                        </label><br><br>
+                        <label>
+                            If yes, how many?
+                            <input type="radio" name="count" id="">One
+                            <input type="radio" name="count" id="">Two
+                            <input type="radio" name="count" id="">More than Two
+                        </label><br><br>
+                        <label>
+                            What breed of dog have you had as a pet? (check all that apply)<br><br>
+                            <input type="checkbox" name="" id=""> Bulldog
+                            <label><input type="checkbox" name="" id=""> Basset Hound</label>
+                            <label><input type="checkbox" name="" id=""> Golden Retriever</label>
+                        </label><br><br>
+                        <label>
+                            Tell us about your favourite dog:<br><br>
+                            <textarea name="" id="" cols="50" rows="10"></textarea>
+                        </label>
+                    </fieldset>
+                </td>
+            </tr>
+        </table>
+    </center>
+
+</body>
+
+</html>

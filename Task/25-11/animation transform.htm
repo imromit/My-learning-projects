@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box{height: 150px; width: 150px;animation: box 3s infinite;background-color: tomato;position: relative;top: 100px;left: 200px;}
+
+        @keyframes box {
+
+            0%{background-color: red;transform:rotate(10deg)}
+            20%{background-color: rgb(240, 15, 15);transform:rotate(30deg)}
+            40%{background-color: rgb(212, 42, 42);transform:rotate(50deg)}
+            60%{background-color: rgb(194, 54, 54);transform:rotate(70deg)}
+            80%{background-color: rgb(180, 63, 63);transform:rotate(90deg)}
+            100%{background-color: rgb(177, 76, 76);transform:rotate(110deg)}
+        }
+    </style>
+</head>
+<body>
+    <div class="box"></div>
+</body>
+</html>

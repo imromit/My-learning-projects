@@ -1,0 +1,14 @@
+*{margin: 0px; padding: 0px;box-sizing: border-box;}
+body{text-align: center ;width: 50%;margin-left: 25%;font-family: 'Arial narrow';margin-top: 5px;}
+.logo{background-color: deepskyblue; height: 100px;width: 15%;float: left;padding: 5px;}
+.headline{background-color:deepskyblue; height: 100px;width: 85%;float:right; padding-top: 30px; color: white;}
+.menu a{ text-decoration: none;padding: 0px 50px;font-size: 35px;color: black;}
+.menu{background-color: silver; }
+.left{height: auto;width: 78%;float: left;text-align: left; margin-top: 5px;margin-right: 1px;}
+.right{height: auto;width: 20%;float: right;}
+.footer{background-color: black;height: 100px;float: left; width: 100%; color: white;padding: 15px;}
+.left h1{color:rgb(0, 126, 252);}
+.left h4{font-size: 25px;}
+.right{background-color: silver;margin-top: 20px;padding: 10px 10px;}
+.right h3{color:rgb(0, 126, 252);}
+.right a{background-color: black ;padding:10px; color: white; text-decoration: none;}

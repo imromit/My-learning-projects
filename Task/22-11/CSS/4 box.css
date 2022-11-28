@@ -1,0 +1,6 @@
+*{margin: 0px;padding: 0px;box-sizing: border-box;}
+body{width: 50%;margin-left: 25%;}
+.header{height: 100px;width: 100%;background-color:cornflowerblue;margin: 10px 0px;border: black 3px groove;}
+.sec1{height: 600px;width: 32%;background-color: tomato;float: left;margin-right: 2%; border: black 3px groove;}
+.sec2{height: 600px;width: 32%;background-color:lightgreen;float: left;margin-right: 2%;border: black 3px groove;}
+.sec3{height: 600px;width: 32%;background-color:goldenrod;float: left;border: black 3px groove;}

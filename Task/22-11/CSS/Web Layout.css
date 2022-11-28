@@ -1,0 +1,15 @@
+*{margin: 0px; padding: 0px;box-sizing: border-box;}
+body{width: 50%;margin-left: 25%;height:auto;text-align: center;font-family: 'Arial narrow';}
+.header{height: 100px;width: 100%;}
+.logo{height: 100px;width: 20%; background-color: tomato;float: left;padding: 6%;}
+.heading{height: 100px;width: 80%; background-color: green;float: right;padding: 6%;}
+.menu{height: 50px;width: 100%;background-color: yellow;padding: 3%;}
+.sec1{height: 200px;width: 33.33%;background-color: blue;float: left;padding: 5%;}
+.sec2{height: 200px;width: 33.33%;background-color: grey;float: left;padding: 5%;}
+.sec3{height: 200px;width: 33.33%;background-color: wheat;float: left;padding: 5%;}
+.page{height: 400px;width: 80%;background-color: aqua;float: left;padding-top: 30%;}
+.side{height: 400px;width: 20%;background-color: olive;float: right;padding-top: 30%;}
+.footer{height: 100px;width: 100%;background-color: skyblue;float: left;padding-top: 6%;}
+/* .div{padding: ;} */
+
+

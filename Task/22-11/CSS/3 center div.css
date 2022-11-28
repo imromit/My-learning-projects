@@ -1,0 +1,9 @@
+*{margin: 0px; padding: 0px;box-sizing: border-box;}
+.header{background-color: red; height: 130px; width: 100%;}
+.center{ height:400px;width: 100%;}
+.left{height: 400px; width: 33.33%; background-color: yellow; float: left;}
+.middle{height: 400px; width: 33.33%; background-color: darkgreen;float: left;}
+.right{height: 400px; width: 33.33%; background-color:lime;float: left;}
+.footer{background-color: silver; height: 125px; width: 100%;}
+
+body{text-align: center;}
