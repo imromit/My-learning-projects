@@ -1,1 +1,2 @@
-console.log("Welcome Home")
+console.log("Welcome Home ");
+document.write("Home");
